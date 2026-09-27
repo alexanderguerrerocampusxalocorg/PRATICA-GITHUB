@@ -11,4 +11,4 @@ Contiene scripts de prueba en Python (`prueba.py`) y la documentación necesaria
 * **Curso:** 4.º ESO - PAI 5
 
 ## Versión
-* **Versión inicial:** v1.0# PRATICA-GITHUB
+* **Versión inicial:** V1 PRATICA-GITHUB
