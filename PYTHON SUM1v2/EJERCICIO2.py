@@ -1,4 +1,4 @@
-# Programazzzz que solicita tres tipos de variables y las muestra en orden:
+# Programaque solicita tres tipos de variables y las muestra en orden:
 # entero, texto y nUmero decimal.
 var1=int(input("INTRODUCE UN NUMERO ENTERO: "))
 var2=input("INTRODUCE UNA LETRA: ")
