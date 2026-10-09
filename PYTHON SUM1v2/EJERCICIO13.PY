@@ -2,5 +2,5 @@
 lado = int(input("INTRODUCE EL VALOR DEL LADO DEL CUBO: "))
 area = 6 * (lado ** 2)
 volumen = lado ** 3
-print("EL ÁREA DEL CUBO ES:", area)
+print("EL AREA DEL CUBO ES:", area)
 print("EL VOLUMEN DEL CUBO ES:", volumen)   

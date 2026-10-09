@@ -1,4 +1,4 @@
-#8. programa que pida un número de horas y muestre por pantalla los minutos y segundos
+#8. programa que pida un numero de horas y muestre por pantalla los minutos y segundos
 horas=int(input("INTRODUCE EL NUMERO DE HORAS: "))
 minutos=horas*60
 segundos=horas*3600

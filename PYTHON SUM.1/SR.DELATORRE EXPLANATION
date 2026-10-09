@@ -1,4 +1,0 @@
-var1=int(input("introduce un valor: "))
-var2=float(input("introduce otro valor: "))
-var3=int(input("introduce otro valor: "))
-print(var1+var2+var3)
